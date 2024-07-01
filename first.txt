@@ -1,6 +1,8 @@
 orange
 blue
 red
+lila
 green 
 yellow
 pink
+black
